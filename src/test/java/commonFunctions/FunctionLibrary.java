@@ -296,6 +296,12 @@ public class FunctionLibrary {
 
 
 	}
+	public static void add() {
+		int a=89,b=88,c;
+		c=a+b;
+		System.out.println(c);
+	}
+	
 }
 
 
